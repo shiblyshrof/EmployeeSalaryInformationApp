@@ -1,0 +1,9 @@
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\bin\Debug\EmployeeSalaryInformationApp.exe.config
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\bin\Debug\EmployeeSalaryInformationApp.exe
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\bin\Debug\EmployeeSalaryInformationApp.pdb
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\obj\Debug\EmployeeSalaryInformationApp.csprojResolveAssemblyReference.cache
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\obj\Debug\EmployeeSalaryInformationApp.Properties.Resources.resources
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\obj\Debug\EmployeeSalaryInformationApp.SalaryInformationUI.resources
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\obj\Debug\EmployeeSalaryInformationApp.csproj.GenerateResource.Cache
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\obj\Debug\EmployeeSalaryInformationApp.exe
+c:\users\shibly\documents\visual studio 2013\Projects\EmployeeSalaryInformationApp\EmployeeSalaryInformationApp\obj\Debug\EmployeeSalaryInformationApp.pdb
